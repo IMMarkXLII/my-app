@@ -46,13 +46,13 @@
           </a>
         <div class="text">
           <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h2>You have reached the restaurant at the end of the Universe.</h2>
         </div>
       </div>
     </div>
 
     <footer>
-      <p class="footer-contents">Designed and developed with <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> in Seattle.</p>
+      <p class="footer-contents">Designed and developed with <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> in a Vogon Ship!.</p>
     </footer>
 
     <script src={$setBackgroundJs}"></script>
